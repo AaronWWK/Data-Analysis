@@ -1,2 +1,2 @@
 # Data-Analysis
-Projects for data wrangling
+Projects for data cleaning and data analysis
